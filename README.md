@@ -11,32 +11,60 @@
 </p>
 
 
+## :computer: Project
 
-## :computer: Projeto
+__App to always remember to water your plants__🌱
 
-
+This is a project developed during the **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@RocketSeat](https://github.com/RocketSeat)** from April 19th to April 25th, 2021.
 
 ## :hammer_and_wrench: Features
 
 
 
-## ✨ Tecnologias
+## ✨ Technologies
 
+__This project was developed using the following technologies:__
 
+- React Native
+
+- Expo
+
+- TypeScript
+
+  
 
 ## 🔖 Layout
 
+__You can view the project layout through the links below:__
 
+- [PlantManager](https://www.figma.com/file/IhQRtrOZdu3TrvkPYREzOy/PlantManager) 
 
-## Executando o projeto
+Remembering that you need to have a [Figma](http://figma.com/) account to access it.
 
+## 🚀Getting Started
 
+Clone the project and access the folder
 
-## 📄 Licença
+$ git clone && cd nlw-05-plantmanager
+
+__Follow the steps below__
+
+__install the dependencies__
+
+$ yarn install
+
+ __start the project__
+
+$ expo start
+
+## 📄 License
+
+This project licensed under the MIT license. See the [License](LICENSE.md) file for details.
+
+[ ^ foot ]
 
 
 
 <div align="center">
   <small>copyright holders - Rodrigo Gonçalves Santana - Junho/2021</small>
 </div>
-
