@@ -45,7 +45,7 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
 
 Clone the project and access the folder
 
-$ git clone && cd nlw-05-plantmanager
+$ git clone && cd plantmanager
 
 __Follow the steps below__
 
